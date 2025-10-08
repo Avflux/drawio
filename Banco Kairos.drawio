@@ -188,7 +188,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j1D5rnK84vjhWIw8Qy1M-93" value="&lt;p&gt;&lt;font style=&quot;font-size: 7px;&quot; face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;project&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=default;strokeColor=default;startSize=15;strokeWidth=1;swimlaneLine=1;glass=0;rounded=1;shadow=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="106" width="61" height="140" as="geometry">
+          <mxGeometry x="600" y="114" width="61" height="140" as="geometry">
             <mxRectangle x="324" y="229" width="136" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -342,7 +342,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j1D5rnK84vjhWIw8Qy1M-166" value="&lt;p&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 7px; font-weight: 400;&quot;&gt;timeline&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=default;strokeColor=default;startSize=15;strokeWidth=1;swimlaneLine=1;glass=0;rounded=1;shadow=0;align=center;" vertex="1" parent="1">
-          <mxGeometry x="600" y="-28" width="61" height="108" as="geometry">
+          <mxGeometry x="600" y="-14" width="61" height="108" as="geometry">
             <mxRectangle x="324" y="229" width="136" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
