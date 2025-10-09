@@ -76,7 +76,7 @@
           <mxGeometry x="20" y="21" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="j1D5rnK84vjhWIw8Qy1M-32" value="&lt;p&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 7px; font-weight: 400;&quot;&gt;team&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=15;strokeWidth=1;swimlaneLine=1;glass=0;rounded=1;shadow=0;align=center;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="484" y="-564" width="61" height="64" as="geometry">
+          <mxGeometry x="477" y="-563" width="61" height="64" as="geometry">
             <mxRectangle x="324" y="229" width="136" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -524,7 +524,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SxNCK7APwif08eKBY9Hi-1" value="&lt;p&gt;&lt;font face=&quot;Roboto&quot;&gt;&lt;span style=&quot;font-size: 7px; font-weight: 400;&quot;&gt;status&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="swimlane;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=15;strokeWidth=1;swimlaneLine=1;glass=0;rounded=1;shadow=0;align=center;labelBackgroundColor=none;fillColor=#FAE5C7;strokeColor=#0F8B8D;fontColor=#143642;" parent="1" vertex="1">
-          <mxGeometry x="484" y="-706" width="61" height="84" as="geometry">
+          <mxGeometry x="477" y="-698" width="61" height="84" as="geometry">
             <mxRectangle x="324" y="229" width="136" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
